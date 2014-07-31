@@ -1,0 +1,14 @@
+# TEAM
+
+  Founder & Web Designer: Cenk Çakmak
+  Twitter: @cenkcakmak
+  Contact: cenk [at] hunili.com
+  Linkedin: http://www.linkedin.com/in/cenkcakmak
+  From: İzmir, Turkey
+
+# SITE
+  Last update: 2014/08/01
+  Language: English
+  Doctype: HTML5, CSS3
+  Components: Nothing
+  IDE: Photoshop, Illustrator, Sublime Text2, GitHub
