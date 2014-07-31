@@ -11,6 +11,8 @@ Hello there! **[Nothing site](http://wwww.nothingsite.com)** is clean and flat s
 * Easy Navigation
 * Supports cross browsers
 
+![Responsive Design](responsive.png)
+
 ## Feedback
 
 If you find bugs please open a ticket at [here](https://github.com/cenkcakmak/nothingsite.github.io/issues)
