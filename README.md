@@ -1,11 +1,24 @@
 # Nothing Site
 
-Hello there! Nothing site is clean and flat site interface for do nothing.
+Hello there! **[Nothing site](http://wwww.nothingsite.com)** is clean and flat site interface for do nothing.
 
 ## Design Features
 
 * User Experience
 * Minimal and clean modern design
-* Responsive (Desctop, Mobile, Blah blah...) ` Shape 1 `
+* Responsive (Desktop, Mobile, Blah blah...) ` Shape 1 `
 * Simple content
 * Easy Navigation
+* Supports cross browsers
+
+## Feedback
+
+If you find bugs please open a ticket at [here](https://github.com/cenkcakmak/nothingsite.github.io/issues)
+
+#### Website: [www.nothingsite.com](http://wwww.nothingsite.com)
+
+Twitter: [@nothingsite](https://twitter.com/nothingsite)
+
+Dribbble: Please invite me. Be sure, I will add **Nothing**
+
+Email: [cenk@hunili.com](mailto:cenk@hunili.com)
