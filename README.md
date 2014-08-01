@@ -1,8 +1,8 @@
 # Nothing Site
 
-Hello there! **[Nothing site](http://wwww.nothingsite.com)** is clean and flat interface to do nothing.
+Hello there! **[Nothing site](http://www.nothingsite.com)** is clean and flat interface to do nothing.
 
-#### Website: [www.nothingsite.com](http://wwww.nothingsite.com)
+#### Website: [www.nothingsite.com](http://www.nothingsite.com)
 
 Twitter: [@nothingsite](https://twitter.com/nothingsite)
 
