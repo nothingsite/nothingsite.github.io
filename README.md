@@ -10,6 +10,8 @@ Email: [cenk@hunili.com](mailto:cenk@hunili.com)
 
 Twitter: [@nothingsite](https://twitter.com/nothingsite)
 
+[Download Nothing Site UI Kit](http://www.nothingsite.com/nothingsite.zip)
+
 ## Design Features
 
 * User Experience
