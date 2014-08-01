@@ -1,10 +1,10 @@
 # Nothing Site
 
-Hello there! **[Nothing site](http://wwww.nothingsite.com)** is clean and flat interface to do nothing.
+Hello there! **[Nothing site](http://wwww.nothingsite.com){:target="_blank"}** is clean and flat interface to do nothing.
 
-#### Website: [www.nothingsite.com](http://wwww.nothingsite.com)
+#### Website: [www.nothingsite.com](http://wwww.nothingsite.com){:target="_blank"}
 
-Twitter: [@nothingsite](https://twitter.com/nothingsite)
+Twitter: [@nothingsite](https://twitter.com/nothingsite){:target="_blank"}
 
 Dribbble: Please send me Dribbble invitation. Be sure, I will add **Nothing**.
 
@@ -27,4 +27,4 @@ If you find bugs please open a ticket at [here](https://github.com/cenkcakmak/no
 
 ## License
 
-Nothing Site is licensed under the MIT license [http://opensource.org/licenses/MIT](http://opensource.org/licenses/MIT)
+Nothing Site is licensed under the MIT license [http://opensource.org/licenses/MIT](http://opensource.org/licenses/MIT){:target="_blank"}
