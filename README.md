@@ -21,6 +21,6 @@ If you find bugs please open a ticket at [here](https://github.com/cenkcakmak/no
 
 Twitter: [@nothingsite](https://twitter.com/nothingsite)
 
-Dribbble: Please send me Dribbble invitation. Be sure, I will add **Nothing**
+Dribbble: Please send me Dribbble invitation. Be sure, I will add **Nothing**.
 
 Email: [cenk@hunili.com](mailto:cenk@hunili.com)
