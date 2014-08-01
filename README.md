@@ -4,11 +4,11 @@ Hello there! **[Nothing site](http://www.nothingsite.com)** is clean and flat in
 
 #### Website: [www.nothingsite.com](http://www.nothingsite.com)
 
-Twitter: [@nothingsite](https://twitter.com/nothingsite)
-
-<mark>Dribbble: Please send me Dribbble invitation. Be sure, I will add **Nothing**.</mark>
+#### Dribbble: [Please send me Dribbble invitation.](mailto:cenk@hunili.com) Be sure, I will add Nothing.
 
 Email: [cenk@hunili.com](mailto:cenk@hunili.com)
+
+Twitter: [@nothingsite](https://twitter.com/nothingsite)
 
 ## Design Features
 
