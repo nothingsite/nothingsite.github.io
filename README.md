@@ -4,7 +4,7 @@ Hello there! **[Nothing site](http://www.nothingsite.com)** is clean and flat in
 
 #### Website: [www.nothingsite.com](http://www.nothingsite.com)
 
-#### Dribbble: [Please send me Dribbble invitation.](mailto:cenk@hunili.com) Be sure, I will add Nothing.
+#### Dribbble: [Please, send me Dribbble invitation](mailto:cenk@hunili.com) for nothing but net :))
 
 Email: [cenk@hunili.com](mailto:cenk@hunili.com)
 
