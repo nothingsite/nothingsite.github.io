@@ -17,6 +17,7 @@ Twitter: [@nothingsite](https://twitter.com/nothingsite)
 * User Experience
 * Minimal and clean modern design
 * Responsive (Desktop, Mobile, Blah blah...) ` Shape 1 `
+* White Space (My favorite)
 * Simple content
 * Easy Navigation
 * Supports cross browsers
