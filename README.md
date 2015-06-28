@@ -4,8 +4,6 @@ Hello there! **[Nothing site](http://www.nothingsite.com)** is clean and flat in
 
 #### Website: [www.nothingsite.com](http://www.nothingsite.com)
 
-Email: [cenk@hunili.com](mailto:cenk@hunili.com)
-
 Twitter: [@nothingsite](https://twitter.com/nothingsite)
 
 [Download Nothing Site UI Kit](http://www.nothingsite.com/nothingsite-ui-kit.zip)
